@@ -1318,7 +1318,7 @@ input[type="checkbox"] {
     -webkit-animation: fadeInUp 0.4s cubic-bezier(0.3, 0, 0.7, 1) both;
     animation: fadeInUp 0.4s cubic-bezier(0.3, 0, 0.7, 1) both;
     -webkit-animation-delay: calc(30ms * var(--char-index));
-    animation-delay: calc(30ms * var(--char-index));
+    animation-delay: calc(17ms * var(--char-index));
 }
 .splitting .whitespace {
     width: 10px;
