@@ -2,12 +2,11 @@
 <html lang="en">
 
 
-<!-- Mirrored from duruthemes.com/demo/html/nils/nils-light/portfolio-page.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Oct 2022 08:57:04 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nilsa Brown</title>
+    <title>Jesse Nnorom</title>
     <link rel="icon" type="image/png" href="../images/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&amp;display=swap">
     <link rel="stylesheet" href="../css/plugins.css" />
@@ -53,7 +52,7 @@
         </div>
     </header>
     <!-- Portfolio Page  -->
-    <section class="section-padding portfolio-page">
+    <section class="section-padding portfolio.html">
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
@@ -115,7 +114,7 @@
                     <div class="prv">
                         <div class="img bg-img" data-background="../images/portfolio/9.jpg">
                             <div class="text-left ontop">
-                                <h5>Yard House</h5> <span class="sub-title mb-0 mt-10"><a href="portfolio-page.html">Prev Project</a></span>
+                                <h5>Yard House</h5> <span class="sub-title mb-0 mt-10"><a href="portfolio.html.html">Prev Project</a></span>
                             </div>
                             <div class="overly"></div>
                         </div>
@@ -128,7 +127,7 @@
                     <div class="nxt">
                         <div class="img bg-img" data-background="../images/portfolio/4.jpg">
                             <div class="text-right ontop">
-                                <h5>Peaky Blinders</h5> <span class="sub-title mb-0 mt-10"><a href="portfolio-page.html">Next Project</a></span>
+                                <h5>Peaky Blinders</h5> <span class="sub-title mb-0 mt-10"><a href="portfolio.html.html">Next Project</a></span>
                             </div>
                             <div class="overly"></div>
                         </div>
@@ -137,7 +136,7 @@
             </div>
         </div>
     </section>
-    <!-- Testiominals -->
+    Testiominals
     <section class="testimonials">
         <div class="background bg-img bg-fixed section-padding pb-0" data-background="../images/banner.jpg">
             <div class="container">
@@ -218,7 +217,7 @@
                 </div>
                 <div class="col-md-4">
                     <h5>Locations</h5>
-                    <p>Enugu, Nigeria</p>
+                    <p>Enugu — Nigeria</p>
                 </div>
                 <div class="col-md-4">
                     <ul class="nilsbrown-footer-social-link">
@@ -243,5 +242,4 @@
     <script src="../js/custom.js"></script>
 </body>
 
-<!-- Mirrored from duruthemes.com/demo/html/nils/nils-light/portfolio-page.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Oct 2022 08:57:04 GMT -->
 </html>

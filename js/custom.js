@@ -213,7 +213,7 @@
     });
     
     // Portfolio Page owlCarousel
-    $('.portfolio-page .owl-carousel').owlCarousel({
+    $('.portfolio.html .owl-carousel').owlCarousel({
         loop: true
         , margin: 15
         , mouseDrag: true

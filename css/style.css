@@ -1829,11 +1829,11 @@ color: #18191d;
     color: rgba(255,255,255,0.8);
     margin-bottom: 0;
 }
-.portfolio-page p {
+.portfolio.html p {
     font-weight: 400;
     margin-bottom: 20px;
 }
-.portfolio-page p span {
+.portfolio.html p span {
     color: #18191d;
 }
 
